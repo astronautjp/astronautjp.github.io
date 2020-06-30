@@ -9803,7 +9803,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
+  color: #a95ee7 !important;
 }
 
 .text-secondary {
@@ -9863,7 +9863,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #212529 !important;
+  color: #a95ee7 !important;
 }
 
 .text-muted {
@@ -9982,7 +9982,7 @@ h3 {
 
   .table-bordered th,
 .table-bordered td {
-    border: 1px solid #dee2e6 !important;
+    border: 1px solid #8ab8e5 !important;
   }
 
   .table-dark {
@@ -10002,7 +10002,7 @@ h3 {
 }
 body {
   padding-top: 3.375rem;
-  color: #6c757d;
+  color: #617688;
 }
 
 @media (min-width: 992px) {
@@ -10042,7 +10042,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #a95ee7;
 }
 
 @media (min-width: 992px) {
@@ -10090,7 +10090,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #596c80;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -10100,7 +10100,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color:#a95ee7;
 }
 
 .dev-icons {
